@@ -1,0 +1,9 @@
+workspace/
+data/
+delong test/
+__pycache__/
+*.pyc
+.DS_Store
+*.png
+*.csv
+note.txt
